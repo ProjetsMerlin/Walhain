@@ -1,0 +1,29 @@
+.walhain {
+    margin: 0;
+    padding: 12px;
+    font-family: "Roboto", sans-serif;
+}
+
+.walhain {
+    h1,
+    h2,
+    h3 {
+        font-family: "Domine", serif;
+    }
+}
+
+.walhain .header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 24px;
+
+    a {
+        text-decoration: none;
+    }
+}
+
+.walhain .page_404,
+.walhain .footer {
+    text-align: center;
+}
